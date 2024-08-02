@@ -4,7 +4,7 @@ body .container{
     color: white;
     text-align: center;
     font-weight: 700;
-    background: url("images/download.jpeg");
+    background: url("download.jpeg");
     background-size: cover;
     border:2px solid black;
     height:350px;
